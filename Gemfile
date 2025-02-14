@@ -52,6 +52,7 @@ group :jekyll_plugins do
 end
 group :other_plugins do
     gem 'css_parser'
+    gem 'github-pages'
     gem 'feedjira'
     gem 'httparty'
 end
