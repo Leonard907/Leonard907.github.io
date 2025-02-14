@@ -34,3 +34,10 @@ jobs:
         git add .
         git commit -m "Automated update of talk locations" || echo "No changes to commit"
         git push
+
+# Make sure the workflow doesn't conflict with Pages deployment
+# Add if not present:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
