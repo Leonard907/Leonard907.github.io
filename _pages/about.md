@@ -10,9 +10,9 @@ redirect_from:
 Hello🙋, I'm Litu Ou, a first year PhD student at the University of Edinburgh, supervised by [Prof. Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). Previously, I was an intern at the Tongyi Lab working on the [Tongyi DeepResearch project](https://github.com/Alibaba-NLP/DeepResearch). My current research interests lie in improving long context understanding and long horizon task solving abilities in LLMs. Below list the specific areas I'm focusing on:
 
 - Explore current limitations of LLMs dealing with tasks requiring very long input contexts
-- Enhancing long context capabilities through various techniques, such as synthetic data generation, post-training and architectural modifications
-- Developing LLM Agents capable of engaging in multi-step reasoning and planning to solve difficult tasks
-- Resolving dilemmas between long context and long horizon task solving through context engineering and memory mechanisms
+- Enhance long context capabilities through various techniques, such as synthetic data generation, post-training and architectural modifications
+- Develop LLM Agents capable of engaging in multi-step reasoning and planning to solve difficult tasks
+- Resolve dilemmas between long context and long horizon task solving through context engineering and memory mechanisms
 
 ---
 
