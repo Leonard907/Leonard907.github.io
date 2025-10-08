@@ -30,12 +30,12 @@ author:
   location         : 
   employer         : 
   uri              : # URL
-  email            : ""
+  email            : "l.ou-1@sms.ed.ac.uk"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.com/citations?user=rle3OjIAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : 
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : ""
+  github           : "Leonard907"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
