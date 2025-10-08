@@ -27,37 +27,37 @@ Hello🙋, I'm Litu Ou, a first year PhD student at the University of Edinburgh,
 
 **📝 Publications**
 ======
-**WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning** | [arXiv](https://arxiv.org/abs/2509.13305)
+- **WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning** | [arXiv](https://arxiv.org/abs/2509.13305)
 
-<sub>Kuan Li\*, Zhongwang Zhang\*, Huifeng Yin\*, Rui Ye\*, Yida Zhao\*, Liwen Zhang\*, **Litu Ou**, Dingchu Zhang, Xixi Wu, Jialong Wu, Xinyu Wang, Zile Qiao, Zhen Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Jingren Zhou</sub>
+  <sub>Kuan Li\*, Zhongwang Zhang\*, Huifeng Yin\*, Rui Ye\*, Yida Zhao\*, Liwen Zhang\*, **Litu Ou**, Dingchu Zhang, Xixi Wu, Jialong Wu, Xinyu Wang, Zile Qiao, Zhen Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Jingren Zhou</sub>
 
-**ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization** | [arXiv](https://arxiv.org/abs/2509.13313)
+- **ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization** | [arXiv](https://arxiv.org/abs/2509.13313)
 
-<sub>Xixi Wu\*, Kuan Li\*, Yida Zhao, Liwen Zhang, **Litu Ou**, Huifeng Yin, Zhongwang Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Minhao Cheng, Shuai Wang, Hong Cheng, Jingren Zhou</sub>
+  <sub>Xixi Wu\*, Kuan Li\*, Yida Zhao, Liwen Zhang, **Litu Ou**, Huifeng Yin, Zhongwang Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Minhao Cheng, Shuai Wang, Hong Cheng, Jingren Zhou</sub>
 
-**WebSailor: Navigating Super-human Reasoning for Web Agent** | [arXiv](https://arxiv.org/abs/2507.02592)
+- **WebSailor: Navigating Super-human Reasoning for Web Agent** | [arXiv](https://arxiv.org/abs/2507.02592)
 
-<sub>Kuan Li\*, Zhongwang Zhang\*, Huifeng Yin\*, Liwen Zhang\*, **Litu Ou**\*, Jialong Wu, Wenbiao Yin, Baixuan Li, Zhengwei Tao, Xinyu Wang, Weizhou Shen, Junkai Zhang, Dingchu Zhang, Xixi Wu, Yong Jiang, Ming Yan, Pengjun Xie, Fei Huang, Jingren Zhou</sub>
+  <sub>Kuan Li\*, Zhongwang Zhang\*, Huifeng Yin\*, Liwen Zhang\*, **Litu Ou**\*, Jialong Wu, Wenbiao Yin, Baixuan Li, Zhengwei Tao, Xinyu Wang, Weizhou Shen, Junkai Zhang, Dingchu Zhang, Xixi Wu, Yong Jiang, Ming Yan, Pengjun Xie, Fei Huang, Jingren Zhou</sub>
 
-**ToLeaP: Rethinking Development of Tool Learning with Large Language Models** | [arXiv](https://arxiv.org/abs/2505.11833)
+- **ToLeaP: Rethinking Development of Tool Learning with Large Language Models** | [arXiv](https://arxiv.org/abs/2505.11833)
 
-<sub>Haotian Chen\*, Zijun Song\*, Boye Niu\*, Ke Zhang\*, **Litu Ou**\*, Yaxi Lu, Zhong Zhang, Xin Cong, Yankai Lin, Zhiyuan Liu, Maosong Sun</sub>
+  <sub>Haotian Chen\*, Zijun Song\*, Boye Niu\*, Ke Zhang\*, **Litu Ou**\*, Yaxi Lu, Zhong Zhang, Xin Cong, Yankai Lin, Zhiyuan Liu, Maosong Sun</sub>
 
-**Context-Aware Hierarchical Merging for Long Document Summarization** | [ACL 2025 Findings](https://arxiv.org/abs/2502.00977)
+- **Context-Aware Hierarchical Merging for Long Document Summarization** | [ACL 2025 Findings](https://arxiv.org/abs/2502.00977)
 
-<sub>**Litu Ou**, Mirella Lapata</sub>
+  <sub>**Litu Ou**, Mirella Lapata</sub>
 
-**Open-Source vs Close-Source: The Context Utilization Challenge** | [ICLR 2025 Blogpost Track](https://iclr-blogposts.github.io/2025/blog/llm-context-utilization/)
+- **Open-Source vs Close-Source: The Context Utilization Challenge** | [ICLR 2025 Blogpost Track](https://iclr-blogposts.github.io/2025/blog/llm-context-utilization/)
 
-<sub>**Litu Ou**</sub>
+  <sub>**Litu Ou**</sub>
 
-**Chain-of-Thought Hub: A Continuous Effort to Measure Large Language Models' Reasoning Performance** | [ICML 2023 DeployableGenerativeAI](https://arxiv.org/abs/2305.17306)
+- **Chain-of-Thought Hub: A Continuous Effort to Measure Large Language Models' Reasoning Performance** | [ICML 2023 DeployableGenerativeAI](https://arxiv.org/abs/2305.17306)
 
-<sub>Yao Fu, **Litu Ou**, Mingyu Chen, Yuhao Wan, Hao Peng, Tushar Khot</sub>
+  <sub>Yao Fu, **Litu Ou**, Mingyu Chen, Yuhao Wan, Hao Peng, Tushar Khot</sub>
 
-**Specializing smaller language models towards multi-step reasoning** | [ICML 2023 OralPoster](https://arxiv.org/abs/2301.12726)
+- **Specializing smaller language models towards multi-step reasoning** | [ICML 2023 OralPoster](https://arxiv.org/abs/2301.12726)
 
-<sub>Yao Fu, Hao Peng, **Litu Ou**, Ashish Sabharwal, Tushar Khot</sub>
+  <sub>Yao Fu, Hao Peng, **Litu Ou**, Ashish Sabharwal, Tushar Khot</sub>
 
 
 
