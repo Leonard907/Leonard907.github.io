@@ -28,6 +28,7 @@ Hello🙋, I'm Litu Ou, a first year PhD student at the University of Edinburgh,
 **📝 Publications**
 ======
 - **BrowseConf: Confidence-Guided Test-Time Scaling for Web Agents** | [arXiv preprint (coming soon)]()
+
   <sub>**Litu Ou**\*, Kuan Li\*, Huifeng Yin\*, Liwen Zhang, Zhongwang Zhang,  Xixi Wu, Rui Ye, Zile Qiao, Yong Jiang, Pengjun Xie, Fei Huang, Jingren Zhou</sub>
 
 - **WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning** | [arXiv](https://arxiv.org/abs/2509.13305)
