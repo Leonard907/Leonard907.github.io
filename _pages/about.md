@@ -27,6 +27,10 @@ Hello🙋, I'm Litu Ou, a first year PhD student at the University of Edinburgh,
 
 **📝 Publications**
 ======
+- **Tongyi DeepResearch Technical Report** | [arXiv](https://arxiv.org/abs/2510.24701)
+
+  <sub>Tongyi DeepResearch Team</sub>
+
 - **BrowseConf: Confidence-Guided Test-Time Scaling for Web Agents** | [arXiv](https://arxiv.org/abs/2510.23458)
 
   <sub>**Litu Ou**\*, Kuan Li\*, Huifeng Yin\*, Liwen Zhang, Zhongwang Zhang,  Xixi Wu, Rui Ye, Zile Qiao, Yong Jiang, Pengjun Xie, Fei Huang, Jingren Zhou</sub>
