@@ -31,6 +31,7 @@ author:
   employer         : 
   uri              : # URL
   email            : "l.ou-1@sms.ed.ac.uk"
+  cv               : "/files/resume.pdf"
 
   # Academic websites
   academia         : # URL
@@ -39,7 +40,7 @@ author:
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : 
-  semantic         : # URL
+  semantic         : "https://www.semanticscholar.org/author/Litu-Ou/2203370918"
   pubmed           : 
   researchgate     : # URL
   scopus           : # URL
