@@ -11,7 +11,7 @@ redirect_from:
   <p class="home-profile__eyebrow">PhD Student, ILCC, University of Edinburgh</p>
 
   <p class="home-profile__lede">
-    I am a first-year PhD student at the University of Edinburgh, supervised by <a href="https://homepages.inf.ed.ac.uk/mlap/">Prof. Mirella Lapata</a>. My research focuses on long-context understanding and long-horizon reasoning in large language models, with applications to question-answering, summarizations and web agents. Previously, I interned at Tongyi Lab, where I worked on the <a href="https://github.com/Alibaba-NLP/DeepResearch">Tongyi DeepResearch project</a>.
+    I am a first-year PhD student at the University of Edinburgh, supervised by <a href="https://homepages.inf.ed.ac.uk/mlap/">Prof. Mirella Lapata</a>. My research focuses on long-context understanding and long-horizon reasoning in large language models, with applications to question-answering, summarization and web agents. Previously, I interned at Tongyi Lab, where I worked on the <a href="https://github.com/Alibaba-NLP/DeepResearch">Tongyi DeepResearch project</a>.
   </p>
 
   <section class="home-section" aria-labelledby="research-focus">
