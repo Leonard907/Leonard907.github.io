@@ -68,6 +68,13 @@ redirect_from:
 
     <div class="work-grid">
       <article class="work-card">
+        <div class="work-card__meta">2026 - Findings of EMNLP</div>
+        <h3><a href="https://arxiv.org/abs/2606.20900">Storyline Trees</a></h3>
+        <p>Hierarchical representations and adaptive retrieval for long-form narratives.</p>
+        <div class="tag-row"><span>Long Context</span><span>Narrative Understanding</span><span>Retrieval</span></div>
+      </article>
+
+      <article class="work-card">
         <div class="work-card__meta">2026 - Findings of ACL</div>
         <h3><a href="https://arxiv.org/abs/2510.23458">BrowseConf</a></h3>
         <p>Confidence-guided test-time scaling for web agents.</p>
@@ -79,13 +86,6 @@ redirect_from:
         <h3><a href="https://arxiv.org/abs/2602.21456">Revisiting Text Ranking in Deep Research</a></h3>
         <p>White-box retrieval and reranking pipelines for deep research agents.</p>
         <div class="tag-row"><span>Information Retrieval</span><span>Deep Research</span><span>Ranking</span></div>
-      </article>
-
-      <article class="work-card">
-        <div class="work-card__meta">2025 - Findings of ACL</div>
-        <h3><a href="https://aclanthology.org/2025.findings-acl.289/">Context-Aware Hierarchical Merging</a></h3>
-        <p>Faithful long-document summarization over book-length inputs.</p>
-        <div class="tag-row"><span>Long Context</span><span>Summarization</span></div>
       </article>
 
       <article class="work-card">
@@ -139,12 +139,16 @@ redirect_from:
 
     <ol class="publication-list">
       <li>
+        <div class="publication-list__title"><a href="https://arxiv.org/abs/2606.20900">Storyline Trees: Hierarchical Representations for Long-Form Narratives</a></div>
+        <div class="publication-list__meta">Litu Ou, Mirella Lapata - Findings of EMNLP, 2026</div>
+      </li>
+      <li>
         <div class="publication-list__title"><a href="https://arxiv.org/abs/2602.21456">Revisiting Text Ranking in Deep Research</a></div>
         <div class="publication-list__meta">Chuan Meng, Litu Ou, Sean MacAvaney, Jeff Dalton - SIGIR, 2026</div>
       </li>
       <li>
         <div class="publication-list__title"><a href="https://arxiv.org/abs/2601.13697">Uncertainty-Aware Gradient Signal-to-Noise Data Selection for Instruction Tuning</a></div>
-        <div class="publication-list__meta">Zhihang Yuan, Chengyu Yue, Long Huang, Litu Ou, Lei Shi - arXiv, 2026</div>
+        <div class="publication-list__meta">Zhihang Yuan, Chengyu Yue, Long Huang, Litu Ou, Lei Shi - EMNLP, 2026</div>
       </li>
       <li>
         <div class="publication-list__title"><a href="https://arxiv.org/abs/2510.24701">Tongyi DeepResearch Technical Report</a></div>
