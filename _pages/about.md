@@ -39,6 +39,10 @@ redirect_from:
     <h2 id="news">News</h2>
     <ol class="news-list">
       <li>
+        <span class="news-list__date">2026.08</span>
+        <div>Two papers accepted to EMNLP 2026.</div>
+      </li>
+      <li>
         <span class="news-list__date">2026.05</span>
         <div>One paper accepted to SIGIR 2026.</div>
       </li>
