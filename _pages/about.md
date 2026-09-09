@@ -199,15 +199,10 @@ redirect_from:
 
   <section class="home-section" aria-labelledby="teaching-service">
     <h2 id="teaching-service">Academic Service / Teaching</h2>
-    <ol class="timeline-list">
-      <li>
-        <span class="timeline-list__date">2026.02</span>
-        <div><strong>Reviewer</strong>, LLA Workshop at ICLR</div>
-      </li>
-      <li>
-        <span class="timeline-list__date">2026.01 - 2026.05</span>
-        <div><strong>Teaching Assistant</strong>, Foundations of Natural Language Processing, University of Edinburgh</div>
-      </li>
-    </ol>
+    <ul>
+      <li><strong>Conference Reviewer:</strong> NeurIPS 2026 Evaluations and Datasets Track</li>
+      <li><strong>Workshop Reviewer:</strong> LASS Workshop at CIKM 2026; LLA Workshop at COLM 2026; LLA Workshop at ICLR 2026</li>
+      <li><strong>Teaching Assistant:</strong> Foundations of Natural Language Processing, University of Edinburgh (January-May 2026)</li>
+    </ul>
   </section>
 </div>
