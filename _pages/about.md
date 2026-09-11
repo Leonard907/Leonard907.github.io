@@ -16,10 +16,10 @@ redirect_from:
       I am a PhD student at the <a href="https://web.inf.ed.ac.uk/ilcc">Institute for Language, Cognition and Computation (ILCC)</a>, University of Edinburgh, advised by <a href="https://homepages.inf.ed.ac.uk/mlap/">Prof. Mirella Lapata</a>. I work on long-context and long-horizon language models, with a focus on how LLMs organize, retrieve, and reason over information at scale. My recent work studies structured representations for long-form documents and narratives, as well as retrieval, reasoning, and test-time control for web agents. Previously, I interned at Tongyi Lab, where I worked on the <a href="https://github.com/Alibaba-NLP/DeepResearch">Tongyi DeepResearch project</a>.
     </p>
     <div class="home-profile__quick-links" aria-label="Academic links">
-      <a href="https://scholar.google.com/citations?user=rle3OjIAAAAJ&amp;hl=en">Google Scholar</a>
-      <a href="{{ '/files/CV_Litu%20Ou.pdf' | relative_url }}">CV</a>
-      <a href="https://github.com/Leonard907">GitHub</a>
-      <a href="mailto:l.ou-1@sms.ed.ac.uk">Email</a>
+      <a href="https://scholar.google.com/citations?user=rle3OjIAAAAJ&amp;hl=en"><i class="ai ai-google-scholar ai-fw home-profile__quick-link-icon home-profile__quick-link-icon--scholar" aria-hidden="true"></i>Google Scholar</a>
+      <a href="{{ '/files/CV_Litu%20Ou.pdf' | relative_url }}"><i class="fas fa-fw fa-file-lines home-profile__quick-link-icon" aria-hidden="true"></i>CV</a>
+      <a href="https://github.com/Leonard907"><i class="fab fa-fw fa-github home-profile__quick-link-icon" aria-hidden="true"></i>GitHub</a>
+      <a href="mailto:l.ou-1@sms.ed.ac.uk"><i class="fas fa-fw fa-envelope home-profile__quick-link-icon" aria-hidden="true"></i>Email</a>
     </div>
   </section>
 
