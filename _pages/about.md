@@ -13,61 +13,19 @@ redirect_from:
   <section class="home-section home-section--intro" aria-labelledby="about-me">
     <h2 id="about-me">About Me</h2>
     <p class="home-profile__lede">
-      I am a first-year PhD student at the University of Edinburgh, supervised by <a href="https://homepages.inf.ed.ac.uk/mlap/">Prof. Mirella Lapata</a>. My research focuses on long-context understanding and long-horizon reasoning in large language models, with applications to question-answering, summarization and web agents. Previously, I interned at Tongyi Lab, where I worked on the <a href="https://github.com/Alibaba-NLP/DeepResearch">Tongyi DeepResearch project</a>.
+      I am a PhD student at the <a href="https://web.inf.ed.ac.uk/ilcc">Institute for Language, Cognition and Computation (ILCC)</a>, University of Edinburgh, advised by <a href="https://homepages.inf.ed.ac.uk/mlap/">Prof. Mirella Lapata</a>. I work on long-context and long-horizon language models, with a focus on how LLMs organize, retrieve, and reason over information at scale. My recent work studies structured representations for long-form documents and narratives, as well as retrieval, reasoning, and test-time control for web agents. Previously, I interned at Tongyi Lab, where I worked on the <a href="https://github.com/Alibaba-NLP/DeepResearch">Tongyi DeepResearch project</a>.
     </p>
-  </section>
-
-  <section class="home-section" aria-labelledby="research-focus">
-    <h2 id="research-focus">Research Focus</h2>
-    <div class="focus-grid">
-      <article class="focus-item">
-        <h3>Long-Context Understanding &amp; Retrieval</h3>
-        <p>Studying how LLMs retrieve, integrate, and reason over evidence from long inputs such as books, reports, and multi-step search traces.</p>
-      </article>
-      <article class="focus-item">
-        <h3>Web Agents &amp; Post-Training</h3>
-        <p>Building and evaluating LLM agents that search, use tools, and solve long-horizon information-seeking tasks, with an emphasis on synthetic data, SFT, RL, and test-time control.</p>
-      </article>
-      <article class="focus-item">
-        <h3>Context Management &amp; Memory</h3>
-        <p>Designing summarization and memory mechanisms that help agents maintain useful state under limited context budgets.</p>
-      </article>
+    <div class="home-profile__quick-links" aria-label="Academic links">
+      <a href="https://scholar.google.com/citations?user=rle3OjIAAAAJ&amp;hl=en">Google Scholar</a>
+      <a href="{{ '/files/CV_Litu%20Ou.pdf' | relative_url }}">CV</a>
+      <a href="https://github.com/Leonard907">GitHub</a>
+      <a href="mailto:l.ou-1@sms.ed.ac.uk">Email</a>
     </div>
   </section>
 
-  <section class="home-section" aria-labelledby="news">
-    <h2 id="news">News</h2>
-    <ol class="news-list">
-      <li>
-        <span class="news-list__date">2026.08</span>
-        <div>Two papers accepted to EMNLP 2026.</div>
-      </li>
-      <li>
-        <span class="news-list__date">2026.05</span>
-        <div>One paper accepted to SIGIR 2026.</div>
-      </li>
-      <li>
-        <span class="news-list__date">2026.05</span>
-        <div>BrowseConf accepted to Findings of ACL.</div>
-      </li>
-      <li>
-        <span class="news-list__date">2026.01</span>
-        <div>Started as a teaching assistant for Foundations of Natural Language Processing.</div>
-      </li>
-      <li>
-        <span class="news-list__date">2025.09</span>
-        <div>Started my PhD at the University of Edinburgh.</div>
-      </li>
-      <li>
-        <span class="news-list__date">2025.06</span>
-        <div>Started a research internship at Tongyi Lab.</div>
-      </li>
-    </ol>
-  </section>
-
-  <section class="home-section" aria-labelledby="selected-work">
+  <section class="home-section" aria-labelledby="selected-research">
     <div class="section-heading">
-      <h2 id="selected-work">Selected Work</h2>
+      <h2 id="selected-research">Selected Research</h2>
     </div>
 
     <div class="work-grid">
@@ -102,36 +60,32 @@ redirect_from:
     </div>
   </section>
 
-  <section class="home-section" aria-labelledby="experience">
-    <h2 id="experience">Research Experience</h2>
-    <ol class="timeline-list">
+  <section class="home-section" aria-labelledby="news">
+    <h2 id="news">News</h2>
+    <ol class="news-list">
       <li>
-        <span class="timeline-list__date">2025.09 - Present</span>
-        <div>
-          <strong>PhD Student</strong>, Institute for Language, Cognition and Computation, University of Edinburgh
-          <p class="timeline-list__detail">Researching long-context and long-horizon LLM systems, supervised by Prof. Mirella Lapata.</p>
-        </div>
+        <span class="news-list__date">2026.08</span>
+        <div>Two papers accepted to EMNLP 2026.</div>
       </li>
       <li>
-        <span class="timeline-list__date">2025.06 - 2025.09</span>
-        <div>
-          <strong>Research Intern</strong>, Tongyi DeepResearch Team
-          <p class="timeline-list__detail">Worked on post-training, test-time control, and scalable RL pipelines for LLM-based web agents.</p>
-        </div>
+        <span class="news-list__date">2026.05</span>
+        <div>One paper accepted to SIGIR 2026.</div>
       </li>
       <li>
-        <span class="timeline-list__date">2024.08 - 2025.05</span>
-        <div>
-          <strong>Research Intern (Remote)</strong>, Tsinghua University
-          <p class="timeline-list__detail">Worked on tool learning and multi-step reasoning with large language models.</p>
-        </div>
+        <span class="news-list__date">2026.05</span>
+        <div>BrowseConf accepted to Findings of ACL.</div>
       </li>
       <li>
-        <span class="timeline-list__date">2023.06 - 2024.11</span>
-        <div>
-          <strong>Research Assistant</strong>, University of Edinburgh
-          <p class="timeline-list__detail">Worked on retrieval-enhanced and hierarchical methods for faithful book-length summarization.</p>
-        </div>
+        <span class="news-list__date">2026.01</span>
+        <div>Started as a teaching assistant for Foundations of Natural Language Processing.</div>
+      </li>
+      <li>
+        <span class="news-list__date">2025.09</span>
+        <div>Started my PhD at the University of Edinburgh.</div>
+      </li>
+      <li>
+        <span class="news-list__date">2025.06</span>
+        <div>Started a research internship at Tongyi Lab.</div>
       </li>
     </ol>
   </section>
@@ -193,6 +147,40 @@ redirect_from:
       <li>
         <div class="publication-list__title"><a href="https://proceedings.mlr.press/v202/fu23d.html">Specializing Smaller Language Models towards Multi-Step Reasoning</a></div>
         <div class="publication-list__meta">Yao Fu, Hao Peng, Litu Ou, Ashish Sabharwal, Tushar Khot - ICML Oral/Poster, 2023</div>
+      </li>
+    </ol>
+  </section>
+
+  <section class="home-section" aria-labelledby="experience">
+    <h2 id="experience">Research Experience</h2>
+    <ol class="timeline-list">
+      <li>
+        <span class="timeline-list__date">2025.09 - Present</span>
+        <div>
+          <strong>PhD Student</strong>, Institute for Language, Cognition and Computation, University of Edinburgh
+          <p class="timeline-list__detail">Researching long-context and long-horizon LLM systems, supervised by Prof. Mirella Lapata.</p>
+        </div>
+      </li>
+      <li>
+        <span class="timeline-list__date">2025.06 - 2025.09</span>
+        <div>
+          <strong>Research Intern</strong>, Tongyi DeepResearch Team
+          <p class="timeline-list__detail">Worked on post-training, test-time control, and scalable RL pipelines for LLM-based web agents.</p>
+        </div>
+      </li>
+      <li>
+        <span class="timeline-list__date">2024.08 - 2025.05</span>
+        <div>
+          <strong>Research Intern (Remote)</strong>, Tsinghua University
+          <p class="timeline-list__detail">Worked on tool learning and multi-step reasoning with large language models.</p>
+        </div>
+      </li>
+      <li>
+        <span class="timeline-list__date">2023.06 - 2024.11</span>
+        <div>
+          <strong>Research Assistant</strong>, University of Edinburgh
+          <p class="timeline-list__detail">Worked on retrieval-enhanced and hierarchical methods for faithful book-length summarization.</p>
+        </div>
       </li>
     </ol>
   </section>
