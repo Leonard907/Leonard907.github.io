@@ -23,7 +23,7 @@ repository               : "Leonard907/Leonard907.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.png"
+  avatar           : "avatar.webp"
   name             : "Litu Ou"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at the University of Edinburgh studying long-context and long-horizon language models"
