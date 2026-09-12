@@ -75,80 +75,70 @@ redirect_from:
         <span class="news-list__date">2026.05</span>
         <div>BrowseConf accepted to Findings of ACL.</div>
       </li>
-      <li>
-        <span class="news-list__date">2026.01</span>
-        <div>Started as a teaching assistant for Foundations of Natural Language Processing.</div>
-      </li>
-      <li>
-        <span class="news-list__date">2025.09</span>
-        <div>Started my PhD at the University of Edinburgh.</div>
-      </li>
-      <li>
-        <span class="news-list__date">2025.06</span>
-        <div>Started a research internship at Tongyi Lab.</div>
-      </li>
     </ol>
   </section>
 
   <section class="home-section" aria-labelledby="publications">
     <div class="section-heading">
       <h2 id="publications">Publications and Preprints</h2>
+      <button class="publication-toggle" type="button" aria-controls="publication-list" aria-expanded="false" hidden>Show all publications</button>
     </div>
 
-    <ol class="publication-list">
+    <ol class="publication-list" id="publication-list">
       <li>
         <div class="publication-list__title"><a href="https://arxiv.org/abs/2606.20900">Storyline Trees: Hierarchical Representations for Long-Form Narratives</a></div>
-        <div class="publication-list__meta">Litu Ou, Mirella Lapata - Findings of EMNLP, 2026</div>
+        <div class="publication-list__meta"><strong>Litu Ou</strong>, Mirella Lapata - Findings of EMNLP, 2026</div>
       </li>
       <li>
         <div class="publication-list__title"><a href="https://arxiv.org/abs/2602.21456">Revisiting Text Ranking in Deep Research</a></div>
-        <div class="publication-list__meta">Chuan Meng, Litu Ou, Sean MacAvaney, Jeff Dalton - SIGIR, 2026</div>
+        <div class="publication-list__meta">Chuan Meng, <strong>Litu Ou</strong>, Sean MacAvaney, Jeff Dalton - SIGIR, 2026</div>
       </li>
       <li>
         <div class="publication-list__title"><a href="https://arxiv.org/abs/2601.13697">Uncertainty-Aware Gradient Signal-to-Noise Data Selection for Instruction Tuning</a></div>
-        <div class="publication-list__meta">Zhihang Yuan, Chengyu Yue, Long Huang, Litu Ou, Lei Shi - EMNLP, 2026</div>
+        <div class="publication-list__meta">Zhihang Yuan, Chengyu Yue, Long Huang, <strong>Litu Ou</strong>, Lei Shi - EMNLP, 2026</div>
       </li>
       <li>
         <div class="publication-list__title"><a href="https://arxiv.org/abs/2510.24701">Tongyi DeepResearch Technical Report</a></div>
-        <div class="publication-list__meta">Tongyi DeepResearch Team, including Litu Ou - arXiv, 2025</div>
+        <div class="publication-list__meta">Tongyi DeepResearch Team, including <strong>Litu Ou</strong> - arXiv, 2025</div>
       </li>
       <li>
         <div class="publication-list__title"><a href="https://arxiv.org/abs/2510.23458">BrowseConf: Confidence-Guided Test-Time Scaling for Web Agents</a></div>
-        <div class="publication-list__meta">Litu Ou, Kuan Li, Huifeng Yin, Liwen Zhang, Zhongwang Zhang, Xixi Wu, Rui Ye, Zile Qiao, Yong Jiang, Pengjun Xie, Fei Huang, Jingren Zhou - Findings of ACL, 2026</div>
+        <div class="publication-list__meta"><strong>Litu Ou</strong>, Kuan Li, Huifeng Yin, Liwen Zhang, Zhongwang Zhang, Xixi Wu, Rui Ye, Zile Qiao, Yong Jiang, Pengjun Xie, Fei Huang, Jingren Zhou - Findings of ACL, 2026</div>
       </li>
       <li>
         <div class="publication-list__title"><a href="https://arxiv.org/abs/2509.13305">WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning</a></div>
-        <div class="publication-list__meta">Kuan Li, Zhongwang Zhang, Huifeng Yin, Rui Ye, Yida Zhao, Liwen Zhang, Litu Ou, et al. - ICLR, 2026</div>
+        <div class="publication-list__meta">Kuan Li, Zhongwang Zhang, Huifeng Yin, Rui Ye, Yida Zhao, Liwen Zhang, <strong>Litu Ou</strong>, Dingchu Zhang, Xixi Wu, Jialong Wu, Xinyu Wang, Zile Qiao, Zhen Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Jingren Zhou - ICLR, 2026</div>
       </li>
       <li>
         <div class="publication-list__title"><a href="https://arxiv.org/abs/2509.13313">ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization</a></div>
-        <div class="publication-list__meta">Xixi Wu, Kuan Li, Yida Zhao, Liwen Zhang, Litu Ou, Huifeng Yin, Zhongwang Zhang, et al. - arXiv, 2025</div>
+        <div class="publication-list__meta">Xixi Wu, Kuan Li, Yida Zhao, Liwen Zhang, <strong>Litu Ou</strong>, Huifeng Yin, Zhongwang Zhang, Xinmiao Yu, Dingchu Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Minhao Cheng, Shuai Wang, Hong Cheng, Jingren Zhou - arXiv, 2025</div>
       </li>
       <li>
         <div class="publication-list__title"><a href="https://arxiv.org/abs/2507.02592">WebSailor: Navigating Super-human Reasoning for Web Agent</a></div>
-        <div class="publication-list__meta">Kuan Li, Zhongwang Zhang, Huifeng Yin, Liwen Zhang, Litu Ou, Jialong Wu, et al. - arXiv, 2025</div>
+        <div class="publication-list__meta">Kuan Li, Zhongwang Zhang, Huifeng Yin, Liwen Zhang, <strong>Litu Ou</strong>, Jialong Wu, Wenbiao Yin, Baixuan Li, Zhengwei Tao, Xinyu Wang, Weizhou Shen, Junkai Zhang, Dingchu Zhang, Xixi Wu, Yong Jiang, Ming Yan, Pengjun Xie, Fei Huang, Jingren Zhou - arXiv, 2025</div>
       </li>
       <li>
         <div class="publication-list__title"><a href="https://arxiv.org/abs/2505.11833">ToLeaP: Rethinking Development of Tool Learning with Large Language Models</a></div>
-        <div class="publication-list__meta">Haotian Chen, Zijun Song, Boye Niu, Ke Zhang, Litu Ou, Yaxi Lu, Zhong Zhang, Xin Cong, Yankai Lin, Zhiyuan Liu, Maosong Sun - arXiv, 2025</div>
+        <div class="publication-list__meta">Haotian Chen, Zijun Song, Boye Niu, Ke Zhang, <strong>Litu Ou</strong>, Yaxi Lu, Zhong Zhang, Xin Cong, Yankai Lin, Zhiyuan Liu, Maosong Sun - arXiv, 2025</div>
       </li>
       <li>
         <div class="publication-list__title"><a href="https://aclanthology.org/2025.findings-acl.289/">Context-Aware Hierarchical Merging for Long Document Summarization</a></div>
-        <div class="publication-list__meta">Litu Ou and Mirella Lapata - Findings of ACL, 2025</div>
+        <div class="publication-list__meta"><strong>Litu Ou</strong> and Mirella Lapata - Findings of ACL, 2025</div>
       </li>
       <li>
         <div class="publication-list__title"><a href="https://iclr.cc/virtual/2025/poster/37629">Open-Source vs Close-Source: The Context Utilization Challenge</a></div>
-        <div class="publication-list__meta">Litu Ou - ICLR Blogpost Track, 2025</div>
+        <div class="publication-list__meta"><strong>Litu Ou</strong> - ICLR Blogpost Track, 2025</div>
       </li>
       <li>
         <div class="publication-list__title"><a href="https://arxiv.org/abs/2305.17306">Chain-of-Thought Hub: A Continuous Effort to Measure Large Language Models' Reasoning Performance</a></div>
-        <div class="publication-list__meta">Yao Fu, Litu Ou, Mingyu Chen, Yuhao Wan, Hao Peng, Tushar Khot - ICML, 2023</div>
+        <div class="publication-list__meta">Yao Fu, <strong>Litu Ou</strong>, Mingyu Chen, Yuhao Wan, Hao Peng, Tushar Khot - ICML, 2023</div>
       </li>
       <li>
         <div class="publication-list__title"><a href="https://proceedings.mlr.press/v202/fu23d.html">Specializing Smaller Language Models towards Multi-Step Reasoning</a></div>
-        <div class="publication-list__meta">Yao Fu, Hao Peng, Litu Ou, Ashish Sabharwal, Tushar Khot - ICML Oral/Poster, 2023</div>
+        <div class="publication-list__meta">Yao Fu, Hao Peng, <strong>Litu Ou</strong>, Ashish Sabharwal, Tushar Khot - ICML Oral/Poster, 2023</div>
       </li>
     </ol>
+    <script src="{{ '/assets/js/publications.js' | relative_url }}"></script>
   </section>
 
   <section class="home-section" aria-labelledby="experience">
