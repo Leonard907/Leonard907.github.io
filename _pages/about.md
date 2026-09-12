@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Litu Ou"
+title: "About Me"
 author_profile: true
 redirect_from:
   - /about/
@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 <div class="home-profile">
-  <section class="home-section home-section--intro" aria-labelledby="about-me">
-    <h2 id="about-me">About Me</h2>
+  <section class="home-section home-section--intro" aria-label="Introduction">
     <p class="home-profile__lede">
       I am a PhD student at the <a href="https://web.inf.ed.ac.uk/ilcc">Institute for Language, Cognition and Computation (ILCC)</a>, University of Edinburgh, advised by <a href="https://homepages.inf.ed.ac.uk/mlap/">Prof. Mirella Lapata</a>. I work on long-context and long-horizon language models, with a focus on how LLMs organize, retrieve, and reason over information at scale. My recent work studies structured representations for long-form documents and narratives, as well as retrieval, reasoning, and test-time control for web agents. Previously, I interned at Tongyi Lab, where I worked on the <a href="https://github.com/Alibaba-NLP/DeepResearch">Tongyi DeepResearch project</a>.
     </p>
