@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 <div class="home-profile">
-  <p class="home-profile__eyebrow">PhD Student, ILCC, University of Edinburgh</p>
-
   <section class="home-section home-section--intro" aria-labelledby="about-me">
     <h2 id="about-me">About Me</h2>
     <p class="home-profile__lede">
@@ -147,7 +145,7 @@ redirect_from:
       <li>
         <span class="timeline-list__date">2025.09 - Present</span>
         <div>
-          <strong>PhD Student</strong>, Institute for Language, Cognition and Computation, University of Edinburgh
+          <strong>University of Edinburgh</strong>, Institute for Language, Cognition and Computation
           <p class="timeline-list__detail">Researching long-context and long-horizon LLM systems, supervised by Prof. Mirella Lapata.</p>
         </div>
       </li>
