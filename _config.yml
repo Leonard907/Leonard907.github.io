@@ -64,7 +64,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/litu-ou-77baa61a6/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -72,7 +72,8 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  x                : "https://x.com/l1tu_0u"
+  twitter          : # Username for X / Twitter (legacy key)
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username

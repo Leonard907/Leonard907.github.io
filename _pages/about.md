@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About"
 author_profile: true
 redirect_from:
   - /about/
@@ -17,43 +17,6 @@ redirect_from:
       <a href="{{ '/files/CV_Litu%20Ou.pdf' | relative_url }}"><i class="fas fa-fw fa-file-lines home-profile__quick-link-icon" aria-hidden="true"></i>CV</a>
       <a href="https://github.com/Leonard907"><i class="fab fa-fw fa-github home-profile__quick-link-icon" aria-hidden="true"></i>GitHub</a>
       <a href="mailto:l.ou-1@sms.ed.ac.uk"><i class="fas fa-fw fa-envelope home-profile__quick-link-icon" aria-hidden="true"></i>Email</a>
-    </div>
-  </section>
-
-  <section class="home-section" aria-labelledby="selected-research">
-    <div class="section-heading">
-      <h2 id="selected-research">Selected Research</h2>
-    </div>
-
-    <div class="work-grid">
-      <article class="work-card">
-        <div class="work-card__meta">2026 - Findings of EMNLP</div>
-        <h3><a href="https://arxiv.org/abs/2606.20900">Storyline Trees</a></h3>
-        <p>Hierarchical representations and adaptive retrieval for long-form narratives.</p>
-        <div class="tag-row"><span>Long Context</span><span>Narrative Understanding</span><span>Retrieval</span></div>
-      </article>
-
-      <article class="work-card">
-        <div class="work-card__meta">2026 - Findings of ACL</div>
-        <h3><a href="https://arxiv.org/abs/2510.23458">BrowseConf</a></h3>
-        <p>Confidence-guided test-time scaling for web agents.</p>
-        <div class="tag-row"><span>Web Agents</span><span>Test-Time Scaling</span><span>Reliability</span></div>
-      </article>
-
-      <article class="work-card">
-        <div class="work-card__meta">2026 - SIGIR</div>
-        <h3><a href="https://arxiv.org/abs/2602.21456">Revisiting Text Ranking in Deep Research</a></h3>
-        <p>White-box retrieval and reranking pipelines for deep research agents.</p>
-        <div class="tag-row"><span>Information Retrieval</span><span>Deep Research</span><span>Ranking</span></div>
-      </article>
-
-      <article class="work-card">
-        <div class="work-card__meta">2026 - ICLR</div>
-        <h3><a href="https://openreview.net/forum?id=HuP16O5SJf">WebSailor / WebSailor-V2</a></h3>
-        <p>Synthetic data and scalable RL for long-horizon web agents.</p>
-        <div class="tag-row"><span>Synthetic Data</span><span>Agentic RL</span></div>
-      </article>
-
     </div>
   </section>
 
