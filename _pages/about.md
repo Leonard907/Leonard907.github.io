@@ -24,6 +24,10 @@ redirect_from:
     <h2 id="news">News</h2>
     <ol class="news-list">
       <li>
+        <span class="news-list__date">2026.11</span>
+        <div>I co-presented the tutorial <a href="https://agentic-search.github.io/cikm2026/">Agentic Search: Foundations, Optimization, and Long-Horizons</a> at CIKM 2026 in Rome. I covered long-horizon agentic search, including deep-research agents, benchmarks, and open challenges.</div>
+      </li>
+      <li>
         <span class="news-list__date">2026.08</span>
         <div>Two papers accepted to EMNLP 2026.</div>
       </li>
@@ -99,6 +103,17 @@ redirect_from:
       </li>
     </ol>
     <script src="{{ '/assets/js/publications.js' | relative_url }}"></script>
+  </section>
+
+  <section class="home-section" aria-labelledby="talks-tutorials">
+    <h2 id="talks-tutorials">Talks &amp; Tutorials</h2>
+    <ol class="publication-list">
+      <li>
+        <div class="publication-list__title"><a href="https://agentic-search.github.io/cikm2026/">Agentic Search: Foundations, Optimization, and Long-Horizons</a></div>
+        <div class="publication-list__meta">CIKM 2026 Tutorial · Rome, Italy · November 7, 2026</div>
+        <div class="publication-list__meta">Chuan Meng, <strong>Litu Ou</strong>, Sean MacAvaney, Jeff Dalton</div>
+      </li>
+    </ol>
   </section>
 
   <section class="home-section" aria-labelledby="experience">
