@@ -25,7 +25,7 @@ redirect_from:
     <ol class="news-list">
       <li>
         <span class="news-list__date">2026.11</span>
-        <div>I co-presented the tutorial <a href="https://agentic-search.github.io/cikm2026/">Agentic Search: Foundations, Optimization, and Long-Horizons</a> at CIKM 2026 in Rome. I covered long-horizon agentic search, including deep-research agents, benchmarks, and open challenges.</div>
+        <div>co-presented the tutorial <a href="https://agentic-search.github.io/cikm2026/">Agentic Search: Foundations, Optimization, and Long-Horizons</a> at CIKM 2026</div>
       </li>
       <li>
         <span class="news-list__date">2026.08</span>
